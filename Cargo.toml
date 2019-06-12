@@ -1,0 +1,8 @@
+[package]
+name = "mysql_simple"
+version = "0.1.0"
+authors = ["Admin <faheemuzzaman@hotmail.com>"]
+edition = "2018"
+
+[dependencies]
+mysql = "*"
